@@ -5,6 +5,12 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>az_app_spandhana_vs</RootNamespace>
+    <UserSecretsId>488133d5-2c2c-4ea6-ac3b-eaf7733cd137</UserSecretsId>
+    <ApplicationInsightsResourceId>/subscriptions/d2269b2c-4b11-467d-beca-d1d952035a7c/resourceGroups/az-group-rg2/providers/microsoft.insights/components/az-app-web-spandhana</ApplicationInsightsResourceId>
   </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.15.0" />
+  </ItemGroup>
 
 </Project>

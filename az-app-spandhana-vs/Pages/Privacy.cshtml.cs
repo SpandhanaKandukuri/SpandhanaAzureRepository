@@ -14,6 +14,7 @@ namespace az_app_spandhana_vs.Pages
 
         public void OnGet()
         {
+            throw new Exception("testing Application Insight");
         }
     }
 }
