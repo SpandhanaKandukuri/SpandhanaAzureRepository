@@ -5,7 +5,9 @@ VisualStudioVersion = 17.0.31825.309
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "az-app-spandhana-vs", "az-app-spandhana-vs\az-app-spandhana-vs.csproj", "{791F6038-FD41-4B7A-B8D9-83E3A327CAA8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blazor.AzureCosmosDb.Demo", "Blazor.AzureCosmosDb.Demo\Blazor.AzureCosmosDb.Demo.csproj", "{EF8100BE-A020-4CD9-B6E9-BC93F2256D07}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Blazor.AzureCosmosDb.Demo", "Blazor.AzureCosmosDb.Demo\Blazor.AzureCosmosDb.Demo.csproj", "{EF8100BE-A020-4CD9-B6E9-BC93F2256D07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mvc.StorageAccount.Demo", "Mvc.StorageAccount.Demo\Mvc.StorageAccount.Demo.csproj", "{57CF18A4-0855-413D-A390-40001EA9DC68}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{EF8100BE-A020-4CD9-B6E9-BC93F2256D07}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF8100BE-A020-4CD9-B6E9-BC93F2256D07}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF8100BE-A020-4CD9-B6E9-BC93F2256D07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57CF18A4-0855-413D-A390-40001EA9DC68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57CF18A4-0855-413D-A390-40001EA9DC68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57CF18A4-0855-413D-A390-40001EA9DC68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57CF18A4-0855-413D-A390-40001EA9DC68}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
